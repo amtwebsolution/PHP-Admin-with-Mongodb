@@ -33,9 +33,9 @@ For install instructions:
 
    1. Then Unzip the folder in the htdocs folder.
   
-   2. download mongodb3.2 and intall it.
+   2. download mongodb3.2 and install it.
    
-   3. download mongodb 3.2 driver and intall it.
+   3. download mongodb 3.2 driver and install it.
    
    4. Config mongodb
    
@@ -47,5 +47,5 @@ For install instructions:
    
    8. then run admin. username: admin password: admin@123
    
-  for any feedback, please go to amtwebsolution.com and email to amtwebsolution@gmail.com and Skype id: @amtwebsolution
+for any feedback, please go to amtwebsolution.com and email to amtwebsolution@gmail.com and Skype id: @amtwebsolution
   
