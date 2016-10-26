@@ -5,12 +5,19 @@ This Admin is finally arrived to CorePhp and Mongodb3.2. it help to manage categ
 
 Features are:
 
-    for look & feel it bootstrap library.
-    Total adaptation to CorePHP and Mongodb 3.2
-    Dashboard Count with Category, Products and User
-    Beautiful navigation
-    Profile change Password
-    Change Profile info.
+    1. for look & feel it bootstrap library.
+
+    2. Total adaptation to CorePHP and Mongodb 3.2
+    
+    3. Dashboard Count with Category, Products and User
+    
+    4. Pagination and join with two collection.
+    
+    5. Beautiful navigation
+    
+    6. Profile change Password
+    
+    7. Change Profile info.
     
 
 Further changes are here for your contribution:
@@ -40,5 +47,5 @@ For install instructions:
    
    8. then run admin. username: admin password: admin@123
    
-   for any feedback, please go to amtwebsolution.com and email to amtwebsolution@gmail.com
+  for any feedback, please go to amtwebsolution.com and email to amtwebsolution@gmail.com and Skype id: @amtwebsolution
   
