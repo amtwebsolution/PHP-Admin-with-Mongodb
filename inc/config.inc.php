@@ -56,7 +56,7 @@ class Config {
         $this->host = "localhost";
         $this->user = "root";
         $this->password = "";
-        $this->database = "bechlo";
+        $this->database = "demodb";
     }
 
 }
