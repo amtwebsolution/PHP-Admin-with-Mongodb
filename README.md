@@ -1,7 +1,7 @@
-# CorePHP Admin with Mongodb
-CorePHP Admin with Mongodb 3.2 Version
+#PHP Admin with Mongodb
+PHP Admin with Mongodb 3.2 Version
 
-This Admin is finally arrived to CorePhp and Mongodb3.2. it help to manage category, subcategory Products and User for ecommerce website. this admin is support only mongodb 3.2 version.
+This Admin is finally arrived to Php and Mongodb3.2. it help to manage category, subcategory Products and User for ecommerce website. this admin is support only mongodb 3.2 version.
 
 Features are:
 
